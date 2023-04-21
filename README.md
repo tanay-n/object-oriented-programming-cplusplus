@@ -1,11 +1,12 @@
 # object-oriented-programming-cplusplus
 
-This repository contains programs written in fullfillment of the Syracuse Computer Science Masters program at Syracuse University taught by Professor Jonathan S. Weissman. These programs were written in C++ 17 and are highly interactive and practical.
+This repository contains programs written in fullfillment of the Syracuse Computer Science Masters program at Syracuse University taught by Professor Jonathan S. Weissman. These programs were written in C++ 17 and are highly interactive, simple, and practical.
 
 ## Compilation
 All programs were compiled using the C++17 standard with g++.
 
 ## Directory Structure
+```
 .
 ├── BarChartPrinting
 │   ├── BarChart
@@ -51,3 +52,4 @@ All programs were compiled using the C++17 standard with g++.
     ├── SavingsAccount.cpp
     ├── SavingsAccount.h
     └── SavingsAccount.o
+```
